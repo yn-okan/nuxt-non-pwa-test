@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-pwa-test
+        nuxt-non-pwa-test
       </h1>
       <h2 class="subtitle">
         My mathematical Nuxt.js project
